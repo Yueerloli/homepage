@@ -1,1 +1,1 @@
-## copyright &copy; ![serin](https://seir.in)
+## copyright &copy; https://seir.in
